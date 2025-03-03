@@ -1,0 +1,11 @@
+print("Warning you got a\033[31m Ticket\033[m for over speeding, in a school zone") # The 
+print ()
+print ("You will be asked question anwser\033[31m Truthfully\033[m")
+print ()
+myName = input ("Your Name")
+myCar = input ("Car Make,Model and Year")
+myReason = input ("Reason for speed")
+print ()
+print (myName, "was caught speeding on\033[31m Feburary 14, 2025\033[m  in his" ,myCar, " the reason for the speed was ",myReason)
+print ()
+print (" \033[31m Your next hearing will be on March 14, 2025\033[m")
