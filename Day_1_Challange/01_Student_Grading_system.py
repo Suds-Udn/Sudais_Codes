@@ -1,11 +1,10 @@
-------------------------------------------------------
-Name:Sudais
-
-
-
-
-
-
+#-----------------------------------------------------------------------------
+# Name:Sudais
+# Purpose:To calculate what grade people got regarding there mark in a Ontario Level
+# Author: Sudais
+# Created: 28-February-2025
+# Updated: 4-March-2025
+#-----------------------------------------------------------------------------
 
 print("Hello, let's calculate what grade you got together!")
 print()
@@ -38,5 +37,5 @@ elif score >= 54 and score < 57:
     print("You got a level 1. Better luck next time!")
 elif score >= 50 and score < 54:
     print("You got a level 1-. Better luck again!")
-else:
+if score < 0 or score > 100:
     print("Invalid score. Please enter a valid score between 0 and 100.")

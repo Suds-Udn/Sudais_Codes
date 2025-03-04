@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:Sudais
+# Purpose:To help people know what to wear outside
+# Author: Sudais
+# Created: 1-March-2025
+# Updated: 4-March-2025
+#-----------------------------------------------------------------------------
+
 print ("What is the temperature outside")
 print ()
 print ("I will help you dress accordingly to the weather")

@@ -1,0 +1,20 @@
+Start
+
+inform user of the code ans explain that it will help to tell you weather or not a number is even or odd
+
+Ask user to give us the number
+
+Number gets stored in a variable called Number
+
+if number %2 ==0:
+print("Your number is even")
+
+elif number % 2 == 1:
+print("Your number is odd")
+
+elif number % 2 ==2:
+print("Your number is even")
+
+else:
+print("The number you wrote is not correct")
+

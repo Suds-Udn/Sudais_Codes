@@ -1,3 +1,11 @@
+#-----------------------------------------------------------------------------
+# Name:Sudais
+# Purpose:To help people decide what to do on each day of the week
+# Author: Sudais
+# Created: 4-March-2025
+# Updated: 4-March-2025
+#-----------------------------------------------------------------------------
+
 print("You're going to tell me the current day of the week, and then I will provide you with an activity for each day.")
 print()
 
