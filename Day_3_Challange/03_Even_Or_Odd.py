@@ -8,9 +8,9 @@
 
 print ("Hello today I will help you to figure out if a number is even or odd? Tell me a number and I will tell you if its even or odd!")
 print ()
-number= int(input ("Please tell me your number"))
+number= int(input ("Please tell me your number")) #Stored the number as a variable
 
-if number % 2 ==0:
+if number % 2 ==0: #Possiable answer regarding user input
     print("Your number is even")
 elif number % 2 == 1:
     print("Your number is odd")

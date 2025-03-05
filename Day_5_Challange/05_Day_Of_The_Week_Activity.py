@@ -9,9 +9,9 @@
 print("You're going to tell me the current day of the week, and then I will provide you with an activity for each day.")
 print()
 
-day = input("Tell me the day of the week: ")
+day = input("Tell me the day of the week: ") #Keeping the user input as a variable
 
-if day == "Monday":
+if day == "Monday": #Anwser regaring the user input
     print("Start your week with a workout")
 elif day == "Tuesday":
     print("It's a great day to read a book")

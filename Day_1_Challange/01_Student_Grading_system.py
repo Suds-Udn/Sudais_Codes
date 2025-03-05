@@ -9,11 +9,11 @@
 print("Hello, let's calculate what grade you got together!")
 print()
 
-score = int(input("Write your score (out of 100): "))
+score = int(input("Write your score (out of 100): ")) #Storing the score in the input
 print()
 print()
 
-if score >= 90:
+if score >= 90: # All lines under show possible answer that uer provides
     print("Congratulations! You have gotten a 4+, keep up the good work!")
 elif score >= 87 and score < 94:
     print("Congratulations! You have achieved level 4!")
