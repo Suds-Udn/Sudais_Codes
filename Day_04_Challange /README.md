@@ -6,8 +6,4 @@ Ask user for his age
 
 Age gets stored in a variable called Age
 
-if age 18
-print You are eligible to vote!
-
-elif age 18
-print Sorry you cant vote, you are not the eligible age
+Give output that matches input
