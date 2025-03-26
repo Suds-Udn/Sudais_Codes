@@ -5,7 +5,7 @@
 # Created: 19-March-2025
 # Updated: 19-March-2025
 #-----------------------------------------------------------------------------
-print("Welcome to the Grocery List!")
+print ("Welcome to the Grocery List!")
 
 # Initial grocery list
 grocery_list = ['apples', 'bread', 'milk', 'eggs']
